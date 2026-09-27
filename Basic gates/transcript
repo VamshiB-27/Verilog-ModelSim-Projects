@@ -1,0 +1,79 @@
+# Compile of basic_gate_tb.v was successful.
+# Compile of basic_gate.v was successful.
+# Compile of basic_gate_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_basic_gate
+# vsim -gui work.tb_basic_gate 
+# Start time: 00:21:08 on Sep 27,2026
+# Loading work.tb_basic_gate
+# Loading work.basic_gate
+add wave -position insertpoint sim:/tb_basic_gate/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of basic_gate.v was successful.
+# Compile of basic_gate_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of basic_gate.v was successful.
+# Compile of basic_gate_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of basic_gate.v was successful.
+# Compile of basic_gate_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of basic_gate.v was successful.
+# Compile of basic_gate_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_basic_gate
+# End time: 00:24:09 on Sep 27,2026, Elapsed time: 0:03:01
+# Errors: 0, Warnings: 7
+# vsim -gui work.tb_basic_gate 
+# Start time: 00:24:09 on Sep 27,2026
+# Loading work.tb_basic_gate
+# Loading work.basic_gate
+add wave -position insertpoint sim:/tb_basic_gate/*
+run
+run
+run
+run
+# ** Note: $finish    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/Basic gates/basic_gate_tb.v(50)
+#    Time: 40 ns  Iteration: 0  Instance: /tb_basic_gate
+# End time: 00:25:00 on Sep 27,2026, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 0

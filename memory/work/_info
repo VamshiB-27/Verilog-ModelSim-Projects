@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vmy_memory
+Z0 !s110 1790515366
+!i10b 1
+!s100 eZC@46ha78M6Ez2fZPYEU0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMQKS3k@:[cmiPn?1U5b9h3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory
+w1790513753
+8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory.v
+FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory.v
+!i122 6
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1790515366.000000
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmy_memory_tb
+R0
+!i10b 1
+!s100 48BIQPSzBJ6O3lXViKVFP0
+R1
+IkhTagkb44P1;J2gGL@Fk:0
+R2
+R3
+w1790515361
+8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory_tb.v
+FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory_tb.v
+!i122 7
+L0 3 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/memory/my_memory_tb.v|
+!i113 1
+R6
+R7

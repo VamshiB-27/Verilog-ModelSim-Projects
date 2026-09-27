@@ -1,0 +1,61 @@
+# Compile of my_memory.v failed with 2 errors.
+# Compile of my_memory.v failed with 2 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 6 errors.
+# Compile of my_memory.v failed with 6 errors.
+# Compile of my_memory.v failed with 3 errors.
+# Compile of my_memory.v failed with 1 errors.
+# Compile of my_memory.v was successful.
+vsim -gui work.my_memory
+# vsim -gui work.my_memory 
+# Start time: 18:26:27 on Sep 27,2026
+# Loading work.my_memory
+add wave -position insertpoint sim:/my_memory/*
+add dataflow sim:/my_memory/*
+# WARNING: No extended dataflow license exists
+add wave -r sim:/my_memory/*
+# Load canceled
+# Compile of my_memory.v was successful.
+# Compile of my_memory_tb.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of my_memory_tb.v failed with 2 errors.
+# Compile of my_memory_tb.v was successful.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 1 errors.
+# Compile of my_memory_tb.v failed with 2 errors.
+# Compile of my_memory_tb.v failed with 2 errors.
+# Compile of my_memory_tb.v was successful.
+# Compile of my_memory.v was successful.
+# Compile of my_memory_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of my_memory.v was successful.
+# Compile of my_memory_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.my_memory_tb
+# End time: 18:53:06 on Sep 27,2026, Elapsed time: 0:26:39
+# Errors: 0, Warnings: 38
+# vsim -gui work.my_memory_tb 
+# Start time: 18:53:06 on Sep 27,2026
+# Loading work.my_memory_tb
+# Loading work.my_memory
+add wave -position insertpoint sim:/my_memory_tb/*
+run
+run
+run
+run
+run
+run
+run -all
+# End time: 19:06:33 on Sep 27,2026, Elapsed time: 0:13:27
+# Errors: 0, Warnings: 1

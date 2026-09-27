@@ -1,0 +1,155 @@
+# Compile of mux2_1.v failed with 2 errors.
+# Compile of mux2_1.v failed with 2 errors.
+# Compile of mux2_1.v was successful.
+vsim -gui work.mux2_1
+# vsim -gui work.mux2_1 
+# Start time: 14:40:46 on Sep 27,2026
+# Loading work.mux2_1
+add wave -position insertpoint sim:/mux2_1/*
+force -freeze sim:/mux2_1/a0 0 0, 1 {50 ps} -r 100 -can 800
+force -freeze sim:/mux2_1/a1 0 0, 1 {100 ps} -r 200 -can 800
+force -freeze sim:/mux2_1/s0 0 0, 1 {200 ps} -r 400 -can 800
+run -all
+# Compile of mux2_1_tb.v failed with 1 errors.
+# Compile of mux2_1_tb.v was successful.
+vsim -gui work.mux2_1_tb
+# End time: 15:41:50 on Sep 27,2026, Elapsed time: 1:01:04
+# Errors: 0, Warnings: 10
+# vsim -gui work.mux2_1_tb 
+# Start time: 15:41:50 on Sep 27,2026
+# Loading work.mux2_1_tb
+# Loading work.mux2_1
+add wave -position insertpoint sim:/mux2_1_tb/*
+run
+# a0=0,a1=0,s00
+# a0=0,a1=0,s01
+run
+# a0=0,a1=1,s00
+run
+# a0=0,a1=1,s01
+run
+# a0=1,a1=0,s00
+run
+# a0=1,a1=0,s01
+run
+# a0=1,a1=1,s00
+run
+# a0=1,a1=1,s01
+run
+run
+run
+run
+run
+# Compile of mux4_1_using_2_1.v failed with 5 errors.
+# Compile of mux4_1_using_2_1.v failed with 2 errors.
+# Compile of mux4_1_using_2_1.v failed with 2 errors.
+# Compile of mux4_1_using_2_1.v was successful.
+# Compile of mux4_1_tb.v failed with 3 errors.
+# Compile of mux4_1_tb.v was successful.
+vsim -gui work.mux4_1_tb
+# End time: 16:25:03 on Sep 27,2026, Elapsed time: 0:43:13
+# Errors: 0, Warnings: 9
+# vsim -gui work.mux4_1_tb 
+# Start time: 16:25:03 on Sep 27,2026
+# Loading work.mux4_1_tb
+# Loading work.mux4_1
+# Loading work.mux2_1
+add wave -position insertpoint sim:/mux4_1_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of mux2_1.v was successful.
+# Compile of mux2_1_tb.v was successful.
+# Compile of mux4_1_using_2_1.v was successful.
+# Compile of mux4_1_tb.v was successful.
+# Compile of mux4_1.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of mux4_1_using_2_1.v was successful.
+# Compile of mux4_1_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.mux4_1_tb
+# End time: 16:38:03 on Sep 27,2026, Elapsed time: 0:13:00
+# Errors: 0, Warnings: 4
+# vsim -gui work.mux4_1_tb 
+# Start time: 16:38:03 on Sep 27,2026
+# Loading work.mux4_1_tb
+# Loading work.mux4_1_using_2_1
+# Loading work.mux2_1
+add wave -position insertpoint sim:/mux4_1_tb/*
+run -all
+# Compile of mux4_1_tb.v was successful.
+vsim -gui work.mux4_1_tb
+# End time: 16:39:26 on Sep 27,2026, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 2
+# vsim -gui work.mux4_1_tb 
+# Start time: 16:39:26 on Sep 27,2026
+# Loading work.mux4_1_tb
+# Loading work.mux4_1
+add wave -position insertpoint sim:/mux4_1_tb/*
+run -all
+# End time: 16:42:50 on Sep 27,2026, Elapsed time: 0:03:24
+# Errors: 0, Warnings: 1

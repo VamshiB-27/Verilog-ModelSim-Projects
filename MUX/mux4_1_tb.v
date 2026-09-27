@@ -1,0 +1,18 @@
+`timescale 1ns/1ns
+
+module mux4_1_tb;
+	
+	reg [3:0]in;
+	reg [1:0]sel;
+	wire y;
+	integer i;
+
+	mux4_1 DUT(.a(in),.s(sel),.y(y));
+	
+	initial begin
+		for(i=0;i<=6'b111111;i=i+1) begin
+			{in,sel}=i;
+			#10;
+		end
+	end
+endmodule

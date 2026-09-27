@@ -1,0 +1,13 @@
+module mux4_1_using_2_1(
+	input [3:0]a,
+	input [1:0]s,
+	output y
+);
+
+	wire w1,w2;
+	mux2_1 m1(.a0(a[2]),.a1(a[3]),.s0(s[0]),.y(w2));
+	mux2_1 m2(.a0(a[0]),.a1(a[1]),.s0(s[0]),.y(w1));
+	mux2_1 m3(.a0(w1),.a1(w2),.s0(s[1]),.y(y));
+
+
+endmodule

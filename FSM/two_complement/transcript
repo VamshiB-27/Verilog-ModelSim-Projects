@@ -1,0 +1,105 @@
+# Loading project two_complement
+# Compile of two_complement.v failed with 2 errors.
+# Compile of two_complement.v was successful.
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v was successful.
+# Load canceled
+# Compile of two_complement_tb.v was successful.
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.two_complement_tb
+# vsim work.two_complement_tb 
+# Start time: 18:26:24 on Oct 04,2026
+# Loading work.two_complement_tb
+# Loading work.two_complement
+add wave -position insertpoint sim:/two_complement_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v(35)
+#    Time: 90 ns  Iteration: 0  Instance: /two_complement_tb
+# Break in Module two_complement_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v line 35
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.two_complement_tb
+# End time: 18:30:14 on Oct 04,2026, Elapsed time: 0:03:50
+# Errors: 0, Warnings: 16
+# vsim work.two_complement_tb 
+# Start time: 18:30:14 on Oct 04,2026
+# Loading work.two_complement_tb
+# Loading work.two_complement
+add wave -position insertpoint sim:/two_complement_tb/*
+run -all
+# Time	CLK	IN	Q	OUT
+# -----------------------------
+# 10	1	1	1	0
+# 20	1	0	1	1
+# 30	1	1	1	0
+# 40	1	1	1	0
+# 50	1	0	1	1
+# 60	1	0	1	1
+# 70	1	1	1	0
+# 80	1	0	1	1
+# ** Note: $finish    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v(50)
+#    Time: 80 ns  Iteration: 0  Instance: /two_complement_tb
+# 1
+# Break in Module two_complement_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v line 50
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.two_complement_tb
+# End time: 18:31:18 on Oct 04,2026, Elapsed time: 0:01:04
+# Errors: 0, Warnings: 2
+# vsim work.two_complement_tb 
+# Start time: 18:31:18 on Oct 04,2026
+# Loading work.two_complement_tb
+# Loading work.two_complement
+add wave -position insertpoint sim:/two_complement_tb/*
+run -all
+# Time	CLK	IN	Q	OUT
+# -----------------------------
+# 10	1	1	1	0
+# 20	1	0	1	1
+# 30	1	1	1	0
+# 40	1	1	1	0
+# 50	1	0	1	1
+# 60	1	0	1	1
+# 70	1	1	1	0
+# 80	1	0	1	1
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v(50)
+#    Time: 80 ns  Iteration: 0  Instance: /two_complement_tb
+# Break in Module two_complement_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v line 50
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of two_complement.v was successful.
+# Compile of two_complement_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.two_complement_tb
+# End time: 18:35:50 on Oct 04,2026, Elapsed time: 0:04:32
+# Errors: 0, Warnings: 5
+# vsim work.two_complement_tb 
+# Start time: 18:35:50 on Oct 04,2026
+# Loading work.two_complement_tb
+# Loading work.two_complement
+add wave -position insertpoint sim:/two_complement_tb/*
+run -all
+# Time	CLK	IN	Q	OUT
+# -----------------------------
+# 10	0	1	x	x
+# 20	0	0	1	1
+# 30	0	1	1	0
+# 40	0	1	1	0
+# 50	0	0	1	1
+# 60	0	0	1	1
+# 70	0	1	1	0
+# 80	0	0	1	1
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v(75)
+#    Time: 85 ns  Iteration: 0  Instance: /two_complement_tb
+# Break in Module two_complement_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v line 75

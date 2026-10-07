@@ -1,0 +1,88 @@
+project open {D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/counter.mpf}
+# Loading project counter
+# Compile of syn_counter.v failed with 1 errors.
+# Compile of syn_counter.v failed with 3 errors.
+# Compile of syn_counter.v failed with 3 errors.
+# Compile of syn_counter.v failed with 3 errors.
+# Compile of syn_counter.v failed with 3 errors.
+# Compile of syn_counter.v failed with 3 errors.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.syn_counter_tb
+# vsim work.syn_counter_tb 
+# Start time: 14:27:43 on Oct 07,2026
+# Loading work.syn_counter_tb
+# Loading work.syn_counter
+add wave -position insertpoint sim:/syn_counter_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v(22)
+#    Time: 310 ns  Iteration: 0  Instance: /syn_counter_tb
+# Break in Module syn_counter_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v line 22
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.syn_counter_tb
+# End time: 14:29:37 on Oct 07,2026, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 15
+# vsim work.syn_counter_tb 
+# Start time: 14:29:37 on Oct 07,2026
+# Loading work.syn_counter_tb
+# Loading work.syn_counter
+add wave -position insertpoint sim:/syn_counter_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v(22)
+#    Time: 320 ns  Iteration: 0  Instance: /syn_counter_tb
+# Break in Module syn_counter_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v line 22
+vsim work.syn_counter_tb
+# End time: 14:33:34 on Oct 07,2026, Elapsed time: 0:03:57
+# Errors: 0, Warnings: 1
+# vsim work.syn_counter_tb 
+# Start time: 14:33:34 on Oct 07,2026
+# Loading work.syn_counter_tb
+# Loading work.syn_counter
+add wave -position insertpoint sim:/syn_counter_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v(22)
+#    Time: 320 ns  Iteration: 0  Instance: /syn_counter_tb
+# Break in Module syn_counter_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v line 22
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter.v was successful.
+# Compile of syn_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of syn_counter_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.syn_counter_tb
+# End time: 14:34:28 on Oct 07,2026, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 4
+# vsim work.syn_counter_tb 
+# Start time: 14:34:28 on Oct 07,2026
+# Loading work.syn_counter_tb
+# Loading work.syn_counter
+add wave -position insertpoint sim:/syn_counter_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v(22)
+#    Time: 420 ns  Iteration: 0  Instance: /syn_counter_tb
+# Break in Module syn_counter_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v line 22
+# Compile of syn_counter_tb.v was successful.
+vsim work.syn_counter_tb
+# End time: 14:36:14 on Oct 07,2026, Elapsed time: 0:01:46
+# Errors: 0, Warnings: 2
+# vsim work.syn_counter_tb 
+# Start time: 14:36:14 on Oct 07,2026
+# Loading work.syn_counter_tb
+# Loading work.syn_counter
+add wave -position insertpoint sim:/syn_counter_tb/*
+run -all
+# ** Note: $stop    : D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v(22)
+#    Time: 470 ns  Iteration: 0  Instance: /syn_counter_tb
+# Break in Module syn_counter_tb at D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v line 22
+# End time: 14:37:53 on Oct 07,2026, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 1

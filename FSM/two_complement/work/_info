@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement
+vtb_two_complement
+!s110 1791118517
+!i10b 1
+!s100 n]bm;O<KRQ]V^7WN5HSbb0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6PO9STDdTH5l?2IMQU0T<3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791118514
+Z3 8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v
+Z4 FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v
+!i122 2
+L0 3 37
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1791118517.000000
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vtwo_complement
+Z9 !s110 1791119135
+!i10b 1
+!s100 QzmI1z0DNTMBY4dXeADcM2
+R1
+Ikb4al9O5T5G`naiKmAj132
+R2
+R0
+w1791117626
+8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v
+FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v
+!i122 13
+L0 1 17
+R5
+r1
+!s85 0
+31
+!s108 1791119134.000000
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v|
+!i113 1
+R7
+R8
+vtwo_complement_tb
+R9
+!i10b 1
+!s100 oHgJ2Y9e>c<_JL@56:Q4F3
+R1
+I@>?JPTRVWDRe`9Rak75hG2
+R2
+R0
+w1791119133
+R3
+R4
+!i122 14
+L0 3 77
+R5
+r1
+!s85 0
+31
+!s108 1791119135.000000
+Z10 !s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement_tb.v|
+R6
+!i113 1
+R7
+R8

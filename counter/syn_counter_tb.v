@@ -1,0 +1,29 @@
+`timescale 1ns/1ns
+
+module syn_counter_tb;
+	
+	reg clock;
+	reg reset;
+	wire [3:0] counter;
+
+	syn_counter DUT(
+		.clk(clock),
+		.rst(reset),
+		.count(counter)
+	);
+
+	initial begin
+		clock=0;
+		#100;
+		reset=1;
+		#20;
+		reset=0;
+		#350;
+		$stop;
+	end 
+
+	always #10 begin
+		clock=~clock;
+	end	
+
+endmodule

@@ -1,0 +1,8 @@
+{D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v} {1 {vlog -work work -stats=none {D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/FSM/two_complement/two_complement.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module two_complement
+
+Top level modules:
+	two_complement
+
+} {} {}}

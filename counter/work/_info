@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter
+vsyn_counter
+!s110 1791363855
+!i10b 1
+!s100 `kFXbjO<lY4jU:@P:0S=42
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImM?jaCG9UG0c7FhQ^3S[K2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1791363445
+8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter.v
+FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter.v
+!i122 12
+L0 1 21
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1791363855.000000
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vsyn_counter_tb
+!s110 1791363961
+!i10b 1
+!s100 9[>3Gf;Zg]<aC4UVemSPY3
+R1
+IV<G^9@ozAI4bP_njkZGRo2
+R2
+R0
+w1791363958
+8D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v
+FD:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v
+!i122 14
+L0 3 27
+R3
+r1
+!s85 0
+31
+!s108 1791363961.000000
+!s107 D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Vamshi/Vamshi/Education/IIT Dharwad/Semester/5th semester/Coding/Verilog/git/counter/syn_counter_tb.v|
+!i113 1
+R4
+R5
